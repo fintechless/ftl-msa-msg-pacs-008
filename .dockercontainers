@@ -1,0 +1,7 @@
+msa:
+  msg-pacs-008:
+    name: ftl_msa_msg_pacs_008.msa.run
+    dpl_name: msa-msg-pacs-008-dpl
+    svc_name:  msa-msg-pacs-008-svc
+    igr_name: msa-msg-pacs-008-igr
+    health_check_path: /msa/pacs-008/_healthy
